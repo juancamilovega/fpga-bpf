@@ -1,0 +1,6 @@
+[submodule "Packet_Reordering_FFShark"]
+	path = Packet_Reordering_FFShark
+	url = https://github.com/simulatingannealing/ECE496-project2.git
+[submodule "FFShark_Wireshark_Utility_Integration"]
+	path = FFShark_Wireshark_Utility_Integration
+	url = https://github.com/rozariot/FFShark_Wireshark_Integration.git
